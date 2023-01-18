@@ -25,7 +25,7 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:contact@nasyxnadeem.dev">
-            111-111-1111
+            +917006735543
           </LinkItem>
         </LinkColumn>
       </LinkList>
